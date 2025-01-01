@@ -64,7 +64,7 @@ The Dataset undergoes the EDA to futher understand the structure, patterns, and 
 - Most Profitable Categories: The analyis shhows that Technology products, particularly phones and accessories, contributed significantly to overall profit margins.
 - Sales Trends: Seasonal patterns indicate an opportunity to capitalize on Q4 sales through targeted promotions and inventory optimization.
 - Regional Insights: North America and Europe are strong markets; focusing on improving penetration in underperforming regions like Africa could boost global sales.
-- Discount Impact: While discounts helped drive sales, they negatively impacted profit in some cases. A more strategic discounting approach could optimize both metrics.
+- Discount Impact: While discounts helped drive sales, they negatively impacted profit in some cases. A more strategic discounting approach could optimize both metrics..
 ## Recommendations
 The following are the recommendations from the analysis:
 - Focus on High- Margin Products: GlobalMart should increase its marketing efforts and inventory investment in high-performing categories like technology and furniture.
